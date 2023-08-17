@@ -23,12 +23,12 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
-
+![tmp_0103d1b9-0e7c-4062-94ed-ae37cec80b59](https://github.com/Prajwaljain20/Frontend-Mentor-advice-generator-app/assets/76695932/cd1f6872-8d69-4c1c-8a18-1559afd581d0)
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [Github](https://github.com/Prajwaljain20/Frontend-Mentor-advice-generator-app)
+- Live Site URL: [Github pages](https://prajwaljain20.github.io/Frontend-Mentor-advice-generator-app/)
 
 ## My process
 
